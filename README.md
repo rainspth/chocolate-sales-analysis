@@ -20,8 +20,7 @@ This project analyzes global chocolate sales data to understand purchasing behav
 - Certain countries demonstrated higher chocolate purchasing power.
 
 ## Dashboard Preview
-![Chocolate Sales Dashboard](images/chocolate_dashboard.png)
-
+![Chocolate Sales Dashboard](images/cChocolate dashboard.png)
 ## Sample SQL Queries
 
 ### Total sales by Country
